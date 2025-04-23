@@ -1,4 +1,4 @@
 # git-training
 git-training
 
-今日の練習メニューを作成する
+別の練習メニューを追記
